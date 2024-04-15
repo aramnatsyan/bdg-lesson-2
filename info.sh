@@ -8,3 +8,6 @@ free -h
 echo "Disk Usage:"
 df -h
 
+# Display network information
+echo "Network Information:"
+ifconfig
