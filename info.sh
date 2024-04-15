@@ -11,3 +11,8 @@ df -h
 # Display network information
 echo "Network Information:"
 ifconfig
+
+
+# Display user information
+echo "User Information:"
+whoami
